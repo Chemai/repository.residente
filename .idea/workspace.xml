@@ -2,17 +2,107 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="394fa2e2-3e6f-42d5-b869-d3037c6d5f09" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ZIPS/plugin.video.residente/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ZIPS/repository.residente/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/repository.residente.rar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/zips/plugin.program.StarWZRD/Thumbs.db" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZIPS/plugin.video.residente/plugin.video.residente-0.0.1.zip" afterPath="$PROJECT_DIR$/ZIPS/plugin.video.residente/plugin.video.residente-0.0.1.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zips/plugin.program.StarWZRD/plugin.program.StarWZRD-0.0.5.zip" afterPath="$PROJECT_DIR$/zips/plugin.program.StarWZRD/plugin.program.StarWZRD-0.0.5.zip" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZIPS/plugin.video.residente/addon.xml" afterPath="$PROJECT_DIR$/ZIPS/plugin.video.residente/addon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZIPS/repository.residente/addon.xml" afterPath="$PROJECT_DIR$/ZIPS/repository.residente/addon.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zips/addons.xml" afterPath="$PROJECT_DIR$/zips/addons.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zips/addons.xml.md5" afterPath="$PROJECT_DIR$/zips/addons.xml.md5" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/changelog.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/credits.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/default.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/pyqrcode/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/pyqrcode/builder.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/pyqrcode/png.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/pyqrcode/tables.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/13.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/14.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/ContentPanel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/aa.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/bgg2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/fondo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/art/icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/__init__.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/debridit.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/downloader.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/extract.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/loginit.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/notify.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/skinSwitch.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/traktit.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/uploadLog.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/wizard.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/libs/yt.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot000.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot007.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot009.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/media/screenshot010.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/settings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/1080i/APK.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/1080i/BuildUpdate.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/1080i/Contact.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/1080i/FirstRunBuild.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/1080i/FirstRunSaveData.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/1080i/LogViewer.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/1080i/Notifications.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/1080i/Textbox.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/1080i/loguploader.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Background/ContentPanel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Background/bgg2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Background/dialogheader.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Background/loguploader-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Background/loguploader-dialog-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Background/loguploader-white.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Background/spmc.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/DialogCloseButton-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/DialogCloseButton.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/KeyboardKesay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/KeyboardKey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/KeyboardKeyNF.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/button-focus_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/button-focus_lightblue.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-fo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/loguploader-dialogbutton-nofo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/scrollbar-V-background.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/scrollbar-V-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/scrollbar-V.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/testbuttonfo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Button/testbuttonnf.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/MenuItemFO.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/MenuItemNF.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/RadioButton/MenuItemFO.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/RadioButton/MenuItemNF.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/RadioButton/radiobutton-focus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/RadioButton/radiobutton-nofocus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Slider/osd_slider_nib.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Slider/osd_slider_nibNF.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/skins/DefaultSkin/media/Slider/slider1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/resources/tempaddon.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/speedtest.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/startup.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.program.StarWZRD/uservar.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.resident/License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.resident/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.resident/default.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/plugin.video.resident/resources/settings.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml" afterPath="$PROJECT_DIR$/addons.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/addons.xml.md5" afterPath="$PROJECT_DIR$/addons.xml.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/repository.resident/addon.xml" afterPath="$PROJECT_DIR$/repository.resident/addon.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,7 +114,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-4" />
     <option name="y" value="-4" />
     <option name="width" value="1448" />
@@ -45,6 +135,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -56,8 +148,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -72,7 +162,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._repo_xml_generator">
+  <component name="RunManager" selected="Python.repo_prep">
     <configuration name="_repo_xml_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,9 +180,31 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="repo_prep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="repository.residente" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/repo_prep.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Python._repo_xml_generator" />
+      <item index="1" class="java.lang.String" itemvalue="Python.repo_prep" />
+    </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Python._repo_xml_generator" />
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python.repo_prep" />
+        <item index="1" class="java.lang.String" itemvalue="Python._repo_xml_generator" />
       </list>
     </recent_temporary>
   </component>
@@ -110,14 +222,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="1448" height="908" extended-state="0" />
+    <frame x="-4" y="-4" width="1448" height="908" extended-state="1" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25894135" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26251787" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32951653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32951653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />

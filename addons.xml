@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.program.StarWZRD" name="[COLOR gold][B]Star[/B] [/COLOR]WZRD" version="0.0.5" provider-name="Chem@i">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="startup.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+  <summary>[COLOR gold][B]Star[/B] [/COLOR]WZRD - by Chem@i</summary>
+  <description>Programa instalador de Wizard y de utilidades extraídas de la web, siendo propiedad de sus autores, para el mantenimiento, optimización, y backup de Kodi. Basado en Aftermath. Utilízalo con precaución.</description>
+	<news>[COLOR gold][B]Star[/B] [/COLOR]WZRD v 0.0.5
+	* Primera versión.
+	* Textos traducidos al castellano.
+
+	  </news>
+	  <disclaimer>[COLOR red][B]Enjoy KODI.[/B][/COLOR]</disclaimer>
+	  <platform>all</platform>
+	  <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+    			<screenshot>resources/media/screenshot000.jpg</screenshot>
+    			<screenshot>resources/media/screenshot001.jpg</screenshot>
+    			<screenshot>resources/media/screenshot002.jpg</screenshot>
+    			<screenshot>resources/media/screenshot003.jpg</screenshot>
+    			<screenshot>resources/media/screenshot004.jpg</screenshot>
+    			<screenshot>resources/media/screenshot005.jpg</screenshot>
+    			<screenshot>resources/media/screenshot006.jpg</screenshot>
+    			<screenshot>resources/media/screenshot007.jpg</screenshot>
+    			<screenshot>resources/media/screenshot008.jpg</screenshot>
+    			<screenshot>resources/media/screenshot009.jpg</screenshot>
+    			<screenshot>resources/media/screenshot010.jpg</screenshot>
+    </assets>
+    <license>GNU/GPL - v2</license>
+    <forum>https://</forum>
+    <website>web</website>
+    <email>my@email.com</email>
+    <source>https://</source>
+  </extension>
+
+</addon>
+
+<addon id="plugin.video.resident" name="[COLOR gold][B]Resident[/B][/COLOR]" version="0.0.1" provider-name="Chem@i">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0" />
+        <import addon="script.module.python.koding.aio" version="0.0.1"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Quick one liner about the add-on</summary>
+		<description lang="en">Full add-on description.</description>
+		<platform>all</platform>
+		<forum>http://</forum>
+		<website></website>
+		<news></news>
+		<genre>adult,food,movies,music,tech,tvshows,spanish</genre>
+		<video_guide></video_guide>
+		<video_preview></video_preview>
+	</extension>
+</addon>
+
+<addon id="repository.resident" name="[COLOR gold][B]Resident[/B][/COLOR] Repo" version="0.0.1" provider-name="Chem@i">
+	<extension point="xbmc.addon.repository" name="[COLOR gold][B]Resident[/B][/COLOR] Repo">
+		<info compressed="false">https://raw.githubusercontent.com/Chemai/repository.residente/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Chemai/repository.residente/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/chemai/repository.residente/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Quick one liner about the repository</summary>
+		<description lang="en">Full repository description.</description>
+		<genre>adult,comedy,documentary,movies,music,sports,tech,tvshows,spanish</genre>
+	</extension>
+</addon>
+</addons>
