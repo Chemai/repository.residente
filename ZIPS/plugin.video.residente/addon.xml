@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.residente" name="RESIDENTE" version="0.0.1" provider-name="mecanico">
+<addon id="plugin.video.resident" name="[COLOR gold][B]Resident[/B][/COLOR]" version="0.0.1" provider-name="Chem@i">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.python.koding.aio" version="0.0.1"/>
@@ -11,8 +11,8 @@
 		<summary lang="en">Quick one liner about the add-on</summary>
 		<description lang="en">Full add-on description.</description>
 		<platform>all</platform>
-		<forum>http://www.noobsandnerds.com/support</forum>
-		<website>www.noobsandnerds.com</website>
+		<forum>http://</forum>
+		<website></website>
 		<news></news>
 		<genre>adult,food,movies,music,tech,tvshows,spanish</genre>
 		<video_guide></video_guide>
