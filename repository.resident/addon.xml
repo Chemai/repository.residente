@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="[COLOR gold][B]Resident[/B][/COLOR] Repo">
 		<info compressed="false">https://raw.githubusercontent.com/Chemai/repository.residente/master/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/Chemai/repository.residente/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/chemai/repository.residente/master/zips/</datadir>
+		<datadir zip="true">https://raw.githubusercontent.com/chemai/repository.residente/master/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Quick one liner about the repository</summary>
