@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.Star" name="[B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B] [COLOR white][/COLOR]" version="0.0.1" provider-name="Chem@i">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simple.downloader" version="1.9.5"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.simplejson" />
+    <import addon="script.module.liveresolver" version="0.1.24" optional="true"/>
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.libtorrent" optional="true"/>
+	<import addon="script.module.livestreamer" optional="true"/>
+	<import addon="script.module.pyamf" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  
+  <extension point="xbmc.addon.metadata">
+    <summary lang="es">[COLOR blue]Addon Personal for Kodi[/COLOR]</summary>
+    <description lang="es">[B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B] [COLOR white]v:1.0.0[/COLOR]</description>
+      <news>[B]Versión:0.0.1[/B]
+      [COLOR green][B]Bienvenido[/B][/COLOR]
+	  Espero disfrutes del contenido
+	  Primera versión, pruebas
+    </news>
+    <disclaimer>[COLOR orange]The owners and submitters to this addon do not host or distribute any of the content displayed by these addons nor do they have any affiliation with the content providers.[/COLOR]</disclaimer>
+    <platform>all</platform>
+    <assets>
+      <icon>icon.png</icon>
+      <fanart>fanart.jpg</fanart>
+      <screenshot>resources/media/item1.jpg</screenshot>
+	  <screenshot>resources/media/item2.jpg</screenshot>
+	  <screenshot>resources/media/item3.jpg</screenshot>
+	  <screenshot>resources/media/item4.jpg</screenshot>
+    </assets>
+    <license>GNU/GPL - v2</license>
+    <forum>foro</forum>
+    <website>web</website>
+    <email>my@email.com</email>
+	<repository>[B][COLOR gold]S[/COLOR][/B] [B][COLOR orange]TAR[/COLOR][/B]</repository>
+    <source>https://</source>
+  </extension>
+</addon>
